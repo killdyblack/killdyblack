@@ -11,9 +11,10 @@ Một lập trình viên Java đam mê xây dựng giải pháp công nghệ sá
 - **Framework & Công nghệ**: Spring Boot 🌱 | Hibernate JPA 🛌 | MVC 🏛️
 - **Công cụ**: Docker 🐳 | Git ⚙️ | VS Code ✍️ | IntelliJ ✍️
 
-## Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killdyblack&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=killdyblack&layout=compact&theme=dracula)
+## Lĩnh vực yêu thích
+- 🌐 **Phát triển Web**: Spring Boot, Hibernate JPA
+- 🗄️ **Cơ sở dữ liệu**: SQL, MySQL
+- 🛠️ **DevOps**: Docker, Git
 
 ## Dự án nổi bật
 - **[Phần mềm quản lý bán hàng trang sức](https://github.com/killdyblack/CRUD_DuAn1_PhanMemQUanLyBanHangTrangSuc)**: Ứng dụng quản lý bán hàng - [Java, SQL]
