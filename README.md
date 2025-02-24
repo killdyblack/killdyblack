@@ -8,6 +8,7 @@ Một lập trình viên Java đam mê xây dựng giải pháp công nghệ sá
 
 ## Kỹ năng
 - **Ngôn ngữ**: Java ☕ | SQL 🗃️ | Python 🐍
+- **Framework & Công nghệ**: Spring Boot 🌱 | Hibernate JPA 🛌 | MVC 🏛️
 - **Công cụ**: Docker 🐳 | Git ⚙️ | VS Code ✍️ | IntelliJ ✍️
 
 ## Thống kê GitHub
@@ -20,3 +21,4 @@ Một lập trình viên Java đam mê xây dựng giải pháp công nghệ sá
 ## Kết nối với tôi
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2)](https://www.facebook.com/trikhoi.nguyen.735/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/nguyen.trikhoi/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nguyentrikhoi3012@gmail.com)
