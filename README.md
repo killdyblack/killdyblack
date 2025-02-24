@@ -1,16 +1,25 @@
-## Hi there 👋
+# Xin chào! 👋 Tôi là Nguyễn Trí Khôi
+Một lập trình viên java đam mê xây dựng giải pháp công nghệ sáng tạo!
 
-<!--
-**killdyblack/killdyblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Về tôi
+- 🌍 Sống tại Hà Nội, Việt Nam
+- 💻 Làm việc với Java, SQL,Python
+- 📫 Liên hệ: nguyentrikhoi3012@gmail.com
 
-Here are some ideas to get you started:
+## Kỹ năng
+- **Ngôn ngữ**: Python 🐍 | JavaScript 🌟 | Java ☕
+- **Công cụ**: Docker 🐳 | Git ⚙️ | VS Code ✍️ | Intellij ✍️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thống kê GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abcxyz&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abcxyz&layout=compact&theme=dracula)
+
+## Dự án nổi bật
+- **[Ứng dụng Chat](link)**: Ứng dụng nhắn tin thời gian thực - [React, Firebase]
+- **[Blog Cá nhân](link)**: Trang blog tĩnh - [Hugo, GitHub Pages]
+
+## Kết nối với tôi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](link-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](link-twitter)
+
+![GIF](https://media.giphy.com/media/26xBI73gWquK6iO4U/giphy.gif)
