@@ -1,25 +1,21 @@
-# Xin chào! 👋 Tôi là Nguyễn Trí Khôi
-Một lập trình viên Java đam mê xây dựng giải pháp công nghệ sáng tạo!
+Hello! 👋 I am Nguyễn Trí Khôi
+A Java developer passionate about building innovative technology solutions!
 
-## Về tôi
-- 🌍 Sống tại Hà Nội, Việt Nam
-- 💻 Làm việc với Java, SQL, Python
-- 📫 Liên hệ: nguyentrikhoi3012@gmail.com
-
-## Kỹ năng
-- **Ngôn ngữ**: Java ☕ | SQL 🗃️ | Python 🐍
-- **Framework & Công nghệ**: Spring Boot 🌱 | Hibernate JPA 🛌 | MVC 🏛️
-- **Công cụ**: Docker 🐳 | Git ⚙️ | VS Code ✍️ | IntelliJ ✍️
-
-## Lĩnh vực yêu thích
-- 🌐 **Phát triển Web**: Spring Boot, Hibernate JPA
-- 🗄️ **Cơ sở dữ liệu**: SQL, MySQL
-- 🛠️ **DevOps**: Docker, Git
-
-## Dự án nổi bật
-- **[Phần mềm quản lý bán hàng trang sức](https://github.com/killdyblack/CRUD_DuAn1_PhanMemQUanLyBanHangTrangSuc)**: Ứng dụng quản lý bán hàng - [Java, SQL]
-
-## Kết nối với tôi
+About Me
+🌍 Based in Hanoi, Vietnam
+💻 Working with Java, SQL, Python
+📫 Contact: nguyentrikhoi3012@gmail.com
+Skills
+Languages: Java ☕ | SQL 🗃️ | Python 🐍
+Frameworks & Technologies: Spring Boot 🌱 | Hibernate JPA 🛌 | MVC 🏛️
+Tools: Docker 🐳 | Git ⚙️ | VS Code ✍️ | IntelliJ ✍️
+Areas of Interest
+🌐 Web Development: Spring Boot, Hibernate JPA
+🗄️ Databases: SQL, MySQL
+🛠️ DevOps: Docker, Git
+Notable Projects
+- **[Jewelry Sales Management Software: A sales management application](https://github.com/killdyblack/CRUD_DuAn1_PhanMemQUanLyBanHangTrangSuc) - [Java, SQL]
+Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2)](https://www.facebook.com/trikhoi.nguyen.735/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/nguyen.trikhoi/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nguyentrikhoi3012@gmail.com)
